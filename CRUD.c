@@ -14,7 +14,7 @@ int main() {
     int posicao;
     int i;
 
-    // Menu
+    //Menu
     while (opcao != 5) {
         printf("\n===== MENU CRUD =====\n");
         printf("1. Inserir nota\n");
